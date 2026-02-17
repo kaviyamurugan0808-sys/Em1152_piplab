@@ -1,7 +1,7 @@
 n = int(input ("Enter a number:"))
     
 
-print("prime number up to ", n,"are:")
+print("number up to ", n,"are:")
 
 
     
